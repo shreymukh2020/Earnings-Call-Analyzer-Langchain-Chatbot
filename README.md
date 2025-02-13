@@ -1,1 +1,1 @@
-# Earnings-Call-Analyzer
+# Earnings Call Analyzer Chatbot built with Langchain and FAISS Vector Store
