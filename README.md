@@ -13,7 +13,7 @@ The MultiPDF Chat App is a Python application that allows you to chat with multi
 
 <img src="https://github.com/shreymukh2020/Earnings-Call-Analyzer-Chatbot/blob/main/PDF-LangChain.jpg" alt="Data Visualization" width="800">
 
-<img src="https://github.com/shreymukh2020/Earnings-Call-Analyzer-Langchain-Chatbot/blob/main/App_Screenshot.png" alt="Data Visualization" width="800">
+<img src="https://github.com/shreymukh2020/Earnings-Call-Analyzer-Langchain-Chatbot/blob/main/App_Screenshot.png" width="800">
 
 
 The application follows these steps to provide responses to your questions:
