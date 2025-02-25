@@ -1,7 +1,7 @@
-# MultiPDF Chat App
+# MultiPDF Chat Pdf App
 
 
-# Earnings Call Analyzer Chatbot built with Langchain and FAISS Vector Store
+## Earnings Call Analyzer Chatbot built with Langchain and FAISS Vector Store
 
 
 ## Introduction
